@@ -41,7 +41,7 @@ const SummaryTable = ({data}) => {
                     <th scope="row">{s.label}</th>
                     <td>{s.quantity}</td>
                     <td>{s.symbol}{s.sum}</td>
-                    <td><a href={""} onClick={(e) => remove(e, s.id)}>Remove</a></td>
+                    <td><a href={":;"} onClick={(e) => remove(e, s.id)}>Remove</a></td>
                 </tr>
             })
         }
