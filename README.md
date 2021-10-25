@@ -14,13 +14,11 @@
 </p>
 
 ## About
-<hr>
 <p>
 This application is an easily way to count coins based on your currency, type and value.
 </p>
 
 ## Demo
-<hr>
 <p></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/preduus/coin-counter/main/docs/img/preview.gif" alt="Example Animated Preview" />
