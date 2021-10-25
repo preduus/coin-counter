@@ -13,9 +13,15 @@
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 
+## About
+<hr>
+<p>
+This application is an easily way to count coins based on your currency, type and value.
+</p>
+
 ## Demo
 <hr>
 <p></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/preduus/coin-counter/main/docs/img/example-1.png" alt="Example 1 image" />
+<img src="https://raw.githubusercontent.com/preduus/coin-counter/main/docs/img/preview.gif" alt="Example Animated Preview" />
 </p>
