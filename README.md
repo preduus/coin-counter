@@ -12,11 +12,12 @@
 <a href="http://html5.com/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
+
 <p align="center">
-[![GitHub issues](https://img.shields.io/github/issues/preduus/coin-counter)](https://github.com/preduus/coin-counter/issues)
-[![GitHub forks](https://img.shields.io/github/forks/preduus/coin-counter)](https://github.com/preduus/coin-counter/network)
-[![GitHub stars](https://img.shields.io/github/stars/preduus/coin-counter)](https://github.com/preduus/coin-counter/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/preduus/coin-counter/issues"><img src="https://img.shields.io/github/issues/preduus/coin-counter" alt="GitHub issues" /></a>
+<a href="https://github.com/preduus/coin-counter/network"><img src="https://img.shields.io/github/forks/preduus/coin-counter" alt="GitHub forks" /></a>
+<a href="https://github.com/preduus/coin-counter/stargazers"><img src="https://img.shields.io/github/stars/preduus/coin-counter" alt="GitHub stars" /></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT" /></a>
 </p>
 
 ## About
