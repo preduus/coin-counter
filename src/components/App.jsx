@@ -1,10 +1,11 @@
-import {useState} from "react";
+import { CoinProvider } from "../contexts/coin";
 import CoinForm from "./coinForm";
+import CoinSummary from "./coinSummary";
 
 
 const App = () => {
 
-    return (
+    return <CoinProvider>
         <section id="coin" className="contact-section container-coin">
             <div className="container">
                 <div className="row justify-content-center">
@@ -15,10 +16,11 @@ const App = () => {
                         </div>
                     </div>
                 </div>
-                <CoinForm />
+                <CoinSummary/>
+                <CoinForm/>
             </div>
         </section>
-    );
+    </CoinProvider>
 }
 
 export default App;
