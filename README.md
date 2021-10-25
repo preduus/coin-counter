@@ -12,6 +12,12 @@
 <a href="http://html5.com/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
+<p align="center">
+[![GitHub issues](https://img.shields.io/github/issues/preduus/coin-counter)](https://github.com/preduus/coin-counter/issues)
+[![GitHub forks](https://img.shields.io/github/forks/preduus/coin-counter)](https://github.com/preduus/coin-counter/network)
+[![GitHub stars](https://img.shields.io/github/stars/preduus/coin-counter)](https://github.com/preduus/coin-counter/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</p>
 
 ## About
 <p>
@@ -23,3 +29,6 @@ This application is an easily way to count coins based on your currency, type an
 <p align="center">
 <img src="https://raw.githubusercontent.com/preduus/coin-counter/main/docs/img/preview.gif" alt="Example Animated Preview" />
 </p>
+
+## License
+This project is open-source. Download license [here](LICENSE).
