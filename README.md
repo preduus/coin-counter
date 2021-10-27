@@ -31,5 +31,10 @@ This application is an easily way to count coins based on your currency, type an
 <img src="https://raw.githubusercontent.com/preduus/coin-counter/main/docs/img/preview.gif" alt="Example Animated Preview" />
 </p>
 
+## Usage
+```bash
+$ yarn && yarn start
+```
+
 ## License
 This project is open-source. Download license [here](LICENSE).
